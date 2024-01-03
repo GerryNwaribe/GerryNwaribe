@@ -7,7 +7,6 @@ Software engineering student
 I've been learning about coding for the past few months. Still a tec baby but I'm really open to learning as much as possible.
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [the.star.is.geraldine@gmail.com](mailto:the.star.is.geraldine@gmail.com)
 * 🧠  I'm learning C programming and Python
 * 🤝  I'm open to collaborating on productivity and accountability apps
 
